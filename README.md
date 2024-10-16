@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Kenny! 👋
 
-I'm a passionate Frontend Developer and Computer Science student at the University of Lagos (4.5 GPA), aspiring to become a Full Stack Developer. I enjoy creating interactive web applications and writing clean, efficient code. Here’s a bit about me:
+I'm a passionate Frontend Developer and Computer Science student at the University of Lagos , aspiring to become a Full Stack Developer. I enjoy creating interactive web applications and writing clean, efficient code. Here’s a bit about me:
 
 ## 🚀 Skills
 
