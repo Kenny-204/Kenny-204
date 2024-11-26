@@ -53,4 +53,4 @@ I'm a passionate Frontend Developer and Computer Science student at the Universi
 - [LinkedIn](https://www.linkedin.com/in/kehinde-giwa-a205031b2)
 - [Twitter](https://twitter.com/kenny-to-code)
 - [Email](mailto:giwatwins@gmail.com)
-![](https://komarev.com/ghpvc/?username=Kenny-204)
+
