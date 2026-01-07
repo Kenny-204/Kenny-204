@@ -10,47 +10,53 @@
 Kenny-204/Kenny-204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 # Hi there, I'm Kenny! 👋
 
-I'm a passionate Frontend Developer and Computer Science student at the University of Lagos , aspiring to become a Full Stack Developer. I enjoy creating interactive web applications and writing clean, efficient code. Here’s a bit about me:
+### MERN Stack Developer | CS Student at UNILAG | Speedcuber
 
-## 🚀 Skills
+---
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+## 🚀 My Tech Stack
+**Frontend & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,js" alt="Frontend" />
 </p>
 
-### Backend (Aspiring to Learn)
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postman" alt="Backend" />
 </p>
 
-### Other Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
-</p>
+---
 
-## 🌱 What I'm currently learning
-- Full Stack Development
-- Firebase Authentication
-- Advanced React (beautiful UIs and design systems)
+## 🎬 Featured Project: [StreamPot](https://github.com/Kenny-204/streampot-frontend)
+**A high-performance movie streaming platform.**
+
+- **The Stack:** MongoDB, Express, React, Node.js + TypeScript
+- **Highlights:** JWT Auth, Redux State Management, Responsive UI
+- **Repo:** [Frontend](https://github.com/Kenny-204/streampot-frontend) | [Backend](https://github.com/Kenny-204/streampot-backend-mongo)
+
+---
 
 ## 🎉 Fun Facts
-- ♟️ I love playing chess.
-- 🎌 I'm a big fan of anime.
-- 💻 Currently focusing on becoming a Full Stack Developer.
+* 🧩 **Speedcuber:** Personal Best solve of **17.89 seconds**.
+* ♟️ **Chess:** Love a good strategic match.
+* 🎬 **Anime:** Huge fan of *Bungou Stray Dogs*.
 
-## 📫 How to reach me:
-- [GitHub Profile](https://github.com/Kenny-204)
-- [LinkedIn](https://www.linkedin.com/in/kehinde-giwa-a205031b2)
-- [Twitter](https://twitter.com/kenny-to-code)
-- [Email](mailto:giwatwins@gmail.com)
+---
 
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kenny-204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 GitHub Status
+*(Note: If stats don't appear below, it's due to GitHub's temporary cache sync!)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=tokyonight" Alt="Kenny's Stats" />
+</p>
