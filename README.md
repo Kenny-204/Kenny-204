@@ -40,23 +40,30 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎉 Fun Facts
 * 🧩 **Speedcuber:** Personal Best solve of **17.89 seconds**.
-* ♟️ **Chess:** Love a good strategic match.
+* ♟️ **Chess:** Love a good  match.
 * 🎬 **Anime:** Huge fan of *Bungou Stray Dogs*.
 
 ---
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kehinde-giwa-a205031b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:giwatwins@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Kenny-204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🏆 GitHub Status
-*(Note: If stats don't appear below, it's due to GitHub's temporary cache sync!)*
+
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=tokyonight" Alt="Kenny's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-204&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Fullstack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-28A745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Developer-blue?style=for-the-badge"/>
 </p>
