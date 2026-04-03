@@ -58,8 +58,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-204&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-204&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
