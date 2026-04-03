@@ -58,9 +58,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-204&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-204&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats-iota-nine-99.vercel.app/api?username=Kenny-204&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-iota-nine-99.vercel.app/api/top-langs/?username=Kenny-204&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Fullstack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
