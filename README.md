@@ -29,14 +29,27 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🎬 Featured Project: [StreamPot](https://github.com/Kenny-204/streampot-frontend)
+## 🚀 Featured Projects
+
+### 🎬 [StreamPot](https://github.com/Kenny-204/streampot-frontend)
 **A high-performance movie streaming platform.**
 
-- **The Stack:** MongoDB, Express, React, Node.js + TypeScript
-- **Highlights:** JWT Auth, Redux State Management, Responsive UI
+- **Stack:** MongoDB, Express, React, Node.js, TypeScript  
+- **Highlights:** JWT authentication, Redux state management, responsive UI  
 - **Repo:** [Frontend](https://github.com/Kenny-204/streampot-frontend) | [Backend](https://github.com/Kenny-204/streampot-backend-mongo)
 
 ---
+
+### 🎮 [Ludoly](https://ludoly.vercel.app/)
+**An online multiplayer Ludo game built to explore real-time systems and state synchronization.**
+
+- **Stack:** React, TypeScript, Node.js, Express, Socket.io, Redis, MongoDB  
+- **Highlights:**  
+  - Real-time multiplayer using WebSockets  
+  - Room-based game system with shared state in Redis  
+  - Reused reducer logic across client and server (single source of truth)  
+  - Reconnect persistence with localStorage  
+- **Repo:** [GitHub](https://github.com/Kenny-204/ludoly)
 
 ## 🎉 Fun Facts
 * 🧩 **Speedcuber:** Personal Best solve of **17.89 seconds**.
